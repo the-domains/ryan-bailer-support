@@ -1,0 +1,14 @@
+layout_spectrum: 0.1917563
+typography_spectrum: 0.2688172
+color:
+  saturation: 0.7114695
+  lightness: 0.1648746
+  brandStrength: 0.05337417
+  brandColors:
+    - '#1E2047'
+    - '#F4F4F4'
+    - '#333458'
+    - '#5B5C7A'
+    - '#ADADBA'
+  rhythmicContrast: 0.155914
+name: Ryan Bailer Support
